@@ -1,2 +1,11 @@
-# Idea-GuideView
-静态引导，直接布局
+﻿Idea-EditText
+====================================
+这是一个关于第一次安装引导的自定义控件，下面是相关效果图：
+-------------------------------------------
+![gthub](https://github.com/lanyan520/Idea-GuideView/blob/master/art/art01.gif "github")
+ 
+![gthub](https://github.com/lanyan520/Idea-GuideView/blob/master/art/art01.gif "github")
+
+### 项目导入依赖
+
+
